@@ -1,0 +1,28 @@
+<ul>
+                
+                
+                <li>Sterile dressings</li>
+                <img src="sterile dressing.jpg" width="250px" height="250">
+                <li>Bandages</li>
+               <img src="bandages.jpg" width="250px" height="167">
+                <li>Triangular dressings</li>
+                <img src="triangular dressing.jpg" width="250px" height="250px">
+                <li>Adhesive dressings</li>
+                <img src="elastic-adhesive-bandage-500x500.jpg" width="250px" height="167px">
+                <li>Sterile wet wipes</li>
+                <img src="we wipes.jpg" width="250px" height="186px">
+                <li>Microporous tape</li>
+                <img src="micorpore.jpg" width="250px" height="248">
+                <li>Clothing shears</li>
+                <img src="shears.jpg" width="250px" height="128">
+                <li>Conforming bandages</li>
+                <img src="conforming-bandage-500x500.jpg" width="250px" height="250px">
+                <li>Antiseptic cream</li>
+                <img src="antiseptic.jpg" width="250px" height="250">
+                <li>Scissors</li>
+                <img src="scissors.jpg" >
+                <li>Tweezers</li>
+                <img src="twessers.jpg" width="250px" height="250px">
+                <li>Cotton</li>
+                <img src="cotton.jpg" width="250px" height="250px">
+            </ul>

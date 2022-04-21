@@ -1,0 +1,26 @@
+<div class="card-deck ">
+        <div class="card bg-danger">
+            <div class="card-body">
+                <p class="card-text">• Avoid touching surfaces, especially in public settings or health facilities, in case people infected with COVID-19 have touched them. Clean surfaces regularly with standard disinfectants.
+                    • Frequently clean your hands with soap and water, or an alcohol-based hand rub.</p>
+            </div>
+        </div>
+        <div class="card bg-success">
+            <div class="card-body">
+                <p class="card-text">• Avoid touching surfaces, especially in public settings or health facilities, in case people infected with COVID-19 have touched them. Clean surfaces regularly with standard disinfectants.
+                    • Frequently clean your hands with soap and water, or an alcohol-based hand rub.</p>
+            </div>
+        </div>
+        <div class="card bg-warning">
+            <div class="card-body">
+                <p class="card-text">• Avoid touching surfaces, especially in public settings or health facilities, in case people infected with COVID-19 have touched them. Clean surfaces regularly with standard disinfectants.
+                    • Frequently clean your hands with soap and water, or an alcohol-based hand rub.</p>
+            </div>
+        </div>
+        <div class="card bg-info">
+            <div class="card-body">
+                <p class="card-text">• Avoid touching surfaces, especially in public settings or health facilities, in case people infected with COVID-19 have touched them. Clean surfaces regularly with standard disinfectants.
+                    • Frequently clean your hands with soap and water, or an alcohol-based hand rub.</p>
+            </div>
+        </div>
+    </div>
